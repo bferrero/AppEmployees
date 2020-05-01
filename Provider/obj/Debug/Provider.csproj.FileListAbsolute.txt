@@ -1,0 +1,11 @@
+C:\Users\Bruno\source\repos\TestApp\Provider\bin\Debug\Provider.dll
+C:\Users\Bruno\source\repos\TestApp\Provider\bin\Debug\Provider.pdb
+C:\Users\Bruno\source\repos\TestApp\Provider\bin\Debug\BOL.dll
+C:\Users\Bruno\source\repos\TestApp\Provider\bin\Debug\DAL.dll
+C:\Users\Bruno\source\repos\TestApp\Provider\bin\Debug\BOL.pdb
+C:\Users\Bruno\source\repos\TestApp\Provider\bin\Debug\DAL.pdb
+C:\Users\Bruno\source\repos\TestApp\Provider\obj\Debug\Provider.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\TestApp\Provider\obj\Debug\Provider.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\TestApp\Provider\obj\Debug\Provider.csproj.CopyComplete
+C:\Users\Bruno\source\repos\TestApp\Provider\obj\Debug\Provider.dll
+C:\Users\Bruno\source\repos\TestApp\Provider\obj\Debug\Provider.pdb
